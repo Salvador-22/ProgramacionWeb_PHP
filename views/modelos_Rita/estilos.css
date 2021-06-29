@@ -1,0 +1,33 @@
+body{
+	background-color:#339966;
+} 
+
+h3{
+	color:#000066;
+	text-align: center;
+}
+form{
+
+	margin-left: 61%;
+	padding:0.5% ;
+}
+
+table{
+	margin:auto;
+	text-align:center;
+}
+img{
+	float: left;
+
+}
+input{
+margin: 0.5%;
+background-color: #cceeff;
+padding: 1%;
+}
+td{
+	background-color: #b3e6ff;
+}
+th{
+	color:#000066;
+}
